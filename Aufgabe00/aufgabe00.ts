@@ -14,10 +14,10 @@ nicht kopiert und auch nicht diktiert.
 
 
 
-function chatWindow() {
-    var eingabe = prompt("Wie heißt du?", "");
+function ChatWindow(): void {
+    var eingabe: string = prompt("Wie heißt du?", "");
     if (eingabe != null) {
         document.getElementById("HuHu").innerHTML =
             "Herzlich Wilkommen, " + eingabe + "! Ich wünsche dir einen schönen Tag";
     }
-}
+} 
