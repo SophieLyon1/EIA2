@@ -14,7 +14,7 @@ nicht kopiert und auch nicht diktiert.
 
 
 
-function ChatWindow(): void {
+function greetUser(): void {
     var eingabe: string = prompt("Wie heißt du?", "");
     if (eingabe != null) {
         document.getElementById("HuHu").innerHTML =

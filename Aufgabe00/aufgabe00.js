@@ -8,7 +8,7 @@ Hiermit versichere ich, dass ich diesen
 Code selbst geschrieben habe. Er wurde
 nicht kopiert und auch nicht diktiert.
 */
-function chatWindow() {
+function greetUser() {
     var eingabe = prompt("Wie heißt du?", "");
     if (eingabe != null) {
         document.getElementById("HuHu").innerHTML =
