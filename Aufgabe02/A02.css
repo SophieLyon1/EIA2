@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+
+open{
+	
+ width: 30em; 
+ height: 30em; 
+ background-color:#fda3ce; 
+ float: left; 
+ text-align: center; 
+ margin: 5%; 
+ position: relative;
+ font-size: 0.9em;
+ margin-top:2em;	
+	
+}
+	
+	
+closed{
+	
+ width: 30em; 
+ height: 30em; 
+ background-color:#fda3ce;
+ color: #fda3ce;
+ float: left; 
+ text-align: center; 
+ margin: 5%; 
+ position: relative;
+ font-size: 0.9em;
+ margin-top:2em;	
+	
+	
+	
+	
+}	
+	
+hidden{
+	
+ width: 30em; 
+ height: 30em; 
+ background-color:white; 
+ color:white;
+ float: left; 
+ text-align: center; 
+ margin: 5%; 
+ position: relative;
+ font-size: 0.9em;
+ margin-top:2em;	
+	
+}
